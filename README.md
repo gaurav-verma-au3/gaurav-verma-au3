@@ -5,13 +5,13 @@ JavaScript, MERN, Web Development
 
 ### Projects I have Built.
 
-**SlamBook - https://slambook.onrender.com**
+**SlamBook - https://slambook.onrender.com*
 --------------------------------------------------
-**Shoppe - https://ecommerce-vrrh.onrender.com/**
+**Shoppe - https://ecommerce-vrrh.onrender.com/*
 --------------------------------------------------
-**mStay* - https://mstay.onrender.com/**
+**mStay* - https://mstay.onrender.com/*
 --------------------------------------------------
-**Musify* - https://musify-x4yj.onrender.com/**
+**Musify* - https://musify-x4yj.onrender.com/*
 --------------------------------------------------
 
 
