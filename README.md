@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 💬 Ask me about
+JavaScript, MERN, Web Development
+
+### Projects I have Built.
+
+SlamBook - [https://slambook.onrender.com/]
+
 <!--
 **gaurav-verma-au3/gaurav-verma-au3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
