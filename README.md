@@ -11,7 +11,7 @@ JavaScript, MERN, Web Development
 --------------------------------------------------
 **mStay* - https://mstay.onrender.com/**
 --------------------------------------------------
-**Musify*** - https://musify-x4yj.onrender.com/**
+**Musify* - https://musify-x4yj.onrender.com/**
 
 
 <!--
